@@ -1,0 +1,22 @@
+{
+  "name": "C4U Compliance Assistant",
+  "short_name": "C4U Compliance",
+  "description": "Currencies 4 You — Compliance Email to Client Draft Tool",
+  "start_url": "./c4u-compliance-email-assistant.html",
+  "display": "standalone",
+  "background_color": "#0a2540",
+  "theme_color": "#0a2540",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/2563eb/ffffff?text=C4U",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/2563eb/ffffff?text=C4U",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
